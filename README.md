@@ -1,4 +1,4 @@
-# Task02# Task 2: Exploratory Data Analysis (EDA)
+# Task 2: Exploratory Data Analysis (EDA)
 
 ## Objective
 Perform exploratory data analysis on the Titanic dataset to understand patterns and feature relationships.
@@ -20,12 +20,12 @@ Perform exploratory data analysis on the Titanic dataset to understand patterns 
 7. Inferred trends and patterns from the visuals.
 
 ## How to Run
-- Open `eda_titanic.ipynb` in Jupyter Notebook.
-- Make sure `titanic.csv` is in the same directory.
-- Install dependencies from `requirements.txt`.
+ ```bash
+python task02.py
+```
 
 ## Screenshot
-![Histogram](screenshots/histogram.png)
+![Histogram](screenshots/task2.png)
 
 ## Dataset
 You can download the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) or use the one provided here.
