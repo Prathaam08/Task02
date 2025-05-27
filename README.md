@@ -25,9 +25,11 @@ python task02.py
 ```
 
 ## Screenshot
-![Histogram](screenshot/output1.png)
-![Histogram](screenshot/output2.png)
-![Histogram](screenshot/task2.png)
+![Histogram](images/output1.png)
+![Histogram](images/output2.png)
+![Histogram](images/task2.png)
+
+## All the box plot , bar charts , confusion matrics is in images folders
 
 ## Dataset
 You can download the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) or use the one provided here.
