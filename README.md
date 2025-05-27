@@ -26,7 +26,7 @@ python task02.py
 
 ## Screenshot
 ![Histogram](screenshot/task2.png)
-![Histogram](screenshot/output.png)
+![Histogram](screenshot/output1.png)
 ![Histogram](screenshot/output2.png)
 
 ## Dataset
