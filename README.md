@@ -25,7 +25,9 @@ python task02.py
 ```
 
 ## Screenshot
-![Histogram](screenshots/task2.png)
+![Histogram](screenshot/task2.png)
+![Histogram](screenshot/output.png)
+![Histogram](screenshot/output2.png)
 
 ## Dataset
 You can download the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) or use the one provided here.
